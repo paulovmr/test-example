@@ -34,7 +34,7 @@
   </parent>
   <artifactId>mortgages</artifactId>
   <packaging>kjar</packaging>
-  <name>Mortgages</name>
+  <name>Mortgages Test</name>
   <description>Loan approval process automation using Drools.</description>
   <dependencies>
     <dependency>
